@@ -1,0 +1,18 @@
+<!-- Book scan system configuration file -->
+
+<!-- Top-level element to hold all the configuration options -->
+<configuration xmlns:xi="http://www.w3.org/2001/XInclude">
+	
+	<!-- If true, log entries will be printed to stdout as well as to the log file -->
+	<logToScreen>true</logToScreen>
+	
+	<!-- Full path to the log file -->
+	<logFile>bookscan.log</logFile>
+	
+	<!-- Level of detail for stdout logging; one of DEBUG,INFO,WARNING,ERROR -->
+	<screenLogLevel>DEBUG</screenLogLevel>
+
+	<!-- Level of detail for file logging; one of DEBUG,INFO,WARNING,ERROR -->
+	<fileLogLevel>DEBUG</fileLogLevel>
+	
+</configuration>
