@@ -1,0 +1,15 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource>
+    	<file>scanmanager-16.png</file>
+    	<file>camera-16.png</file>
+    	<file>camera-24.png</file>
+    	<file>camera-32.png</file>
+    	<file>zoom-in-16.png</file>
+    	<file>zoom-out-16.png</file>
+    	<file>zoom-fit-16.png</file>
+    	<file>zoom-actual-16.png</file>
+    	<file>hourglass-48.png</file>
+    	<file>chessboard-howto.png</file>
+	</qresource>
+</RCC>
